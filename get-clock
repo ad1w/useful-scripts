@@ -1,8 +1,8 @@
 #!/bin/bash
 
-Icon2="🕐"
+Icon="🕐"
 
 date=$(date '+%a %b %d')
 time=$(date '+%H:%M')
 
-echo " $Icon2 $date, $time "
+echo " $Icon $date, $time "
