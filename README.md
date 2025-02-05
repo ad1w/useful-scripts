@@ -10,5 +10,6 @@ to run:
 or change the permission file by:
 ```
 ~ $ chmod 755 script_name
+~ $ cp script_name /usr/local/bin/
 ~ $ script_name
 ```
