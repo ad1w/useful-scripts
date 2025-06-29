@@ -7,7 +7,7 @@ to run:
 ```
 ~ $ bash script_name
 ```
-or change the permission file by:
+or install on your system by:
 ```
 ~ $ chmod 755 script_name
 ~ $ cp script_name /usr/local/bin/
